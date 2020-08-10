@@ -78,7 +78,7 @@ async function saveClasses(req, res) {
         const db = await Database;
         await createProffy(db, { proffyValue, classValue, classScheduleValues });
         
-        var queryString = `?subject=${req.body.subject}`;
+        const queryString = `?subject=${req.body.subject}`;
         queryString += `&weekday=${req.body.weekday[0]}`;
         queryString += `&time=${req.body.time_from[0]}`;
         
