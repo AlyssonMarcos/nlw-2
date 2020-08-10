@@ -1,7 +1,7 @@
 # PROJETO NLW-2
 
 ### Fala Dev Tudo bom?
-Primeiramente quero agradecer a **rocketseat** pelo evento incrível, finalizei o projeto e ainda consegui andar milhas extras graças as vocês. 
+Primeiramente quero agradecer a **rocketseat** pelo evento incrível, finalizei o projeto e ainda consegui andar milhas extras graças a vocês. 
 
 ### Apresentação
 O projeto é simplemente um portal de alunos e professores desenvolvida em **Front-end e Back-end**
