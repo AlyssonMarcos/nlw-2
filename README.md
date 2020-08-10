@@ -5,9 +5,9 @@ Primeiramente quero agradecer a **rocketseat** pelo evento incrível, finalizei 
 
 ### Apresentação
 O projeto é simplemente um portal de alunos e professores desenvolvida em **Front-end e Back-end**
-### Caso Os gifs a seguir estejam lentos eu peço mil desculpas, tenho um notebook fraquinho.
+### Caso os gifs a seguir estejam lentos eu peço mil desculpas, tenho um notebook fraquinho.
 
-# Tela Inicial do nosso projeto
+# Tela inicial do nosso projeto
 ![Tela Inicial](https://github.com/AlyssonMarcos/nlw-2/blob/master/gitImages/home.png)
 
 # Tela de cadastro do professor
