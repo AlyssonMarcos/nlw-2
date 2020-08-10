@@ -1,6 +1,6 @@
 # PROJETO NLW-2
 
-### Fala Dev Tudo bom?
+### Fala Dev Tudo Bom?
 Primeiramente quero agradecer a **rocketseat** pelo evento incrível, finalizei o projeto e ainda consegui andar milhas extras graças a vocês. 
 
 ### Apresentação
